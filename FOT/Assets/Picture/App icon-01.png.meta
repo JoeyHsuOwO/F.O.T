@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: 4fa168934471adf4d837b917ab46c108
+timeCreated: 1479289558
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: App icon-01_0
+    21300002: App icon-01_1
+    21300004: App icon-01_2
+    21300006: App icon-01_3
+    21300008: App icon-01_4
+    21300010: App icon-01_5
+    21300012: App icon-01_6
+    21300014: App icon-01_7
+    21300016: App icon-01_8
+    21300018: App icon-01_9
+    21300020: App icon-01_10
+    21300022: App icon-01_11
+    21300024: App icon-01_12
+    21300026: App icon-01_13
+    21300028: App icon-01_14
+    21300030: App icon-01_15
+    21300032: App icon-01_16
+    21300034: App icon-01_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: App icon-01_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 914
+        width: 180
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 1, w: 2}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: App icon-01_1
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 894
+        width: 181
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: App icon-01_2
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 865
+        width: 149
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: App icon-01_3
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 915
+        width: 154
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: App icon-01_4
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 877
+        width: 159
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: App icon-01_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 643
+        width: 131
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: App icon-01_6
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 624
+        width: 148
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: App icon-01_7
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 645
+        width: 121
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: App icon-01_8
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 628
+        width: 140
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: App icon-01_9
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 672
+        width: 109
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: App icon-01_10
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 390
+        width: 177
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: App icon-01_11
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 355
+        width: 143
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: App icon-01_12
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 371
+        width: 139
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: App icon-01_13
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 366
+        width: 131
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: App icon-01_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 122
+        width: 149
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: App icon-01_15
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 101
+        width: 139
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: App icon-01_16
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 111
+        width: 170
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: App icon-01_17
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 100
+        width: 140
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
